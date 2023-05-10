@@ -1,0 +1,12 @@
+Order with id 3 was placed on 11/03/2023
+
+Order details:
+ -> Client: Marin Andreea
+ -> Cashier: 1
+ -> Total price: 60.0
+ -> Status: delivered
+
+THANK YOU FOR YOUR ORDER! :)
+1. Package ordered, not delivered to the office yet
+2. Package delivered to the post office, not received yet
+3. The package was delivered by the client
